@@ -8,5 +8,5 @@ The perfect starting point for an Ionic project.
 > Test for github application on iPad
 
 ```c
-// test code for another commit
+// test code comment for another github commit
 ```
